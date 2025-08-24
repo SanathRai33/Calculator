@@ -44,10 +44,9 @@ calculator-app/
 1. Clone this repository:  
    ```bash
    git clone https://github.com/SanathRai33/Calculator.git
-```
+   ```
 
 2. Navigate into the project folder:
-
    ```bash
    cd calculator-app
    ```
