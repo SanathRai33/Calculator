@@ -44,13 +44,14 @@ calculator-app/
 1. Clone this repository:  
    ```bash
    git clone https://github.com/SanathRai33/Calculator.git
-````
+```
 
 2. Navigate into the project folder:
 
    ```bash
    cd calculator-app
    ```
+
 3. Open `index.html` in your browser.
 
 ---
@@ -83,8 +84,3 @@ This project is licensed under the **MIT License** – you are free to use and m
 🌐 [GitHub](https://github.com/SanathRai33)
 
 ---
-
-```
-
-Do you want me to also **add sample screenshots (using placeholders)** in the README so it looks more professional, or keep it plain?
-```
