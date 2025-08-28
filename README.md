@@ -81,6 +81,7 @@ This project is licensed under the **MIT License** – you are free to use and m
 
 **Sanath Rai**
 📧 [sanathrai03@gmail.com](mailto:sanathrai03@gmail.com)
-🌐 [GitHub](https://github.com/SanathRai33)
+🤵🏻‍♂️ [GitHub](https://github.com/SanathRai33)
+🌐 [Live demo](https://sanathrai33.github.io/Calculator/)
 
 ---
