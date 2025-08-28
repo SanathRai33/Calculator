@@ -24,6 +24,7 @@ It performs basic arithmetic operations like **Addition, Subtraction, Multiplica
 ## 📸 Preview
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/043788fe-71c8-4fdc-b273-75859a3d887f" />
 
+**[Live demo](https://sanathrai33.github.io/Calculator/)** 
 
 ---
 
